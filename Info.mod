@@ -1,3 +1,4 @@
+LastUpdate,July 17,2024 for firmware 18.1.0
 Atmosphere,https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.7.1/atmosphere-1.7.1-master-39c201e37+hbl-2.4.4+hbmenu-3.6.0.zip
 Hekate,https://github.com/CTCaer/hekate/releases/download/v6.2.1/hekate_ctcaer_6.2.1_Nyx_1.6.3.zip
 Sysbot,https://github.com/olliz0r/sys-botbase/releases/download/v2.31/sys-botbase231.zip
