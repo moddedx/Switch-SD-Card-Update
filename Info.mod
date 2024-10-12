@@ -1,8 +1,8 @@
-LastUpdate;July 18,2024 for firmware 18.1.0 
-Changes;JKSV Updated
-Atmosphere;https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.7.1/atmosphere-1.7.1-master-39c201e37+hbl-2.4.4+hbmenu-3.6.0.zip
-Hekate;https://github.com/CTCaer/hekate/releases/download/v6.2.1/hekate_ctcaer_6.2.1_Nyx_1.6.3.zip
-Sysbot;https://github.com/olliz0r/sys-botbase/releases/download/v2.31/sys-botbase231.zip
+LastUpdate;Oct 12,2024 for firmware 19.0.0 
+Changes;Atmos Hekate, Sysbotbase
+Atmosphere;https://github.com/user-attachments/files/17348470/atmosphere-1.8.0-preprerelease-5717ea6c0.zip
+Hekate;https://github.com/CTCaer/hekate/releases/download/v6.2.2/hekate_ctcaer_6.2.2_Nyx_1.6.4.zip
+Sysbot;https://github.com/moddedx/Switch-SD-Card-Update/blob/main/sys-botbase232_ams18interim.zip
 SysDVR;https://github.com/exelix11/SysDVR/releases/download/v6.1.1/SysDVR.zip
 JKSV;https://github.com/J-D-K/JKSV/releases/download/07%2F18%2F2024/JKSV.nro
 ldn;https://github.com/spacemeowx2/ldn_mitm/releases/download/v1.17.0/ldn_mitm_v1.17.0.zip
