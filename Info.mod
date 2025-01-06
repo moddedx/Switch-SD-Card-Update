@@ -1,6 +1,6 @@
 LastUpdate;Nov 5,2024 for firmware 19.0.0 
 Changes;JKVS
-Atmosphere;https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.8.0-prerelease/atmosphere-1.8.0-prerelease-c6014b533+hbl-2.4.4+hbmenu-3.6.0.zip
+Atmosphere;https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.8.0-prerelease/atmosphere-1.8.0-master-c6014b533+hbl-2.4.4+hbmenu-3.6.0.zip
 Hekate;https://github.com/CTCaer/hekate/releases/download/v6.2.2/hekate_ctcaer_6.2.2_Nyx_1.6.4.zip
 Sysbot;https://github.com/olliz0r/sys-botbase/releases/download/v2.4/sys-botbase24.zip
 SysDVR;https://github.com/exelix11/SysDVR/releases/download/v6.1.1/SysDVR.zip
