@@ -1,7 +1,7 @@
-LastUpdate;Feb 24,2025 for SYSDVR 6.2 
-Changes;SYSDVR 6.2
-Atmosphere;https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.8.0-prerelease/atmosphere-1.8.0-master-c6014b533+hbl-2.4.4+hbmenu-3.6.0.zip
-Hekate;https://github.com/CTCaer/hekate/releases/download/v6.2.2/hekate_ctcaer_6.2.2_Nyx_1.6.4.zip
+LastUpdate;May 9,2025 for AMS and Hek 
+Changes;Support for 20.0.X
+Atmosphere;https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.9.0-prerelease/atmosphere-1.9.0-prerelease-1d3f3c6e5+hbl-2.4.4+hbmenu-3.6.0.zip
+Hekate;https://github.com/CTCaer/hekate/releases/download/v6.3.0/hekate_ctcaer_6.3.0_Nyx_1.7.0.zip
 Sysbot;https://github.com/olliz0r/sys-botbase/releases/download/v2.4/sys-botbase24.zip
 SysDVR;https://github.com/exelix11/SysDVR/releases/download/v6.2/SysDVR.zip
 JKSV;https://github.com/J-D-K/JKSV/releases/download/11%2F05%2F2024/JKSV.nro
