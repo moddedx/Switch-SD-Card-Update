@@ -1,4 +1,4 @@
-LastUpdate;May 29,2025
+LastUpdate;July 20,2025
 Changes;Support for 20.2.0
 Atmosphere;https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.9.2/atmosphere-1.9.2-master-af859d9e6+hbl-2.4.4+hbmenu-3.6.0.zip
 Hekate;https://github.com/CTCaer/hekate/releases/download/v6.3.1/hekate_ctcaer_6.3.1_Nyx_1.7.0.zip
