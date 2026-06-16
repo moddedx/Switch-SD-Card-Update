@@ -1,7 +1,7 @@
-LastUpdate;Apr-7-2026
-Changes;Support for 22.1.0 
-Atmosphere;https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.11.1/atmosphere-1.11.1-master-d04c20a04+hbl-2.4.5+hbmenu-3.6.1.zip
-Hekate;https://github.com/CTCaer/hekate/releases/download/v6.5.2/hekate_ctcaer_6.5.2_Nyx_1.9.2.zip
+LastUpdate;Jun-7-2026
+Changes;Support for 22.5.0 
+Atmosphere;https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.11.2/atmosphere-1.11.2-master-5388824be+hbl-2.4.5+hbmenu-3.6.1.zip
+Hekate;https://github.com/CTCaer/hekate/releases/download/v6.5.3/hekate_ctcaer_6.5.3_Nyx_1.9.3.zip
 Sysbot;https://github.com/olliz0r/sys-botbase/releases/download/v2.41/sys-botbase241.zip
 SysDVR;https://github.com/exelix11/SysDVR/releases/download/v6.2.2/SysDVR.zip
 JKSV;https://github.com/J-D-K/JKSV/releases/download/12%2F02%2F2025/JKSV.nro
