@@ -1,6 +1,6 @@
 LastUpdate;Sept-27-2026
-Changes;Support for 23.0.0 with idn
-Atmosphere;https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.12.0/atmosphere-1.12.0-master-28d6a2e11+hbl-2.4.5+hbmenu-3.6.1.zip
+Changes;Support for 23.5.0 with idn
+Atmosphere;https://github.com/Atmosphere-NX/Atmosphere/releases/download/1.12.2/atmosphere-1.12.2-master-4e3f37038+hbl-2.4.5+hbmenu-3.6.1.zip
 Hekate;https://github.com/CTCaer/hekate/releases/download/v6.5.4/hekate_ctcaer_6.5.4_Nyx_1.9.4.zip
 Sysbot;https://github.com/olliz0r/sys-botbase/releases/download/v2.41/sys-botbase241.zip
 SysDVR;https://github.com/exelix11/SysDVR/releases/download/v6.2.2/SysDVR.zip
